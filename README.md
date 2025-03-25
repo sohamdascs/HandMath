@@ -1,4 +1,4 @@
-HandMath — OpenCV, Computer Vision , Google Gemini API, Mediapipe, Streamlit 
+HandMath (https://www.youtube.com/watch?v=qyVqYeZob_4&ab_channel=SohamDas) — OpenCV, Computer Vision , Google Gemini API, Mediapipe, Streamlit 
 
 
 
